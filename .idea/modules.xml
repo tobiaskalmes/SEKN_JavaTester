@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeadManSwitch/DeadManSwitch.iml" filepath="$PROJECT_DIR$/DeadManSwitch/DeadManSwitch.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prime/Prime.iml" filepath="$PROJECT_DIR$/Prime/Prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tester.iml" filepath="$PROJECT_DIR$/Tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vornamen/Vornamen.iml" filepath="$PROJECT_DIR$/Vornamen/Vornamen.iml" />
     </modules>
   </component>
 </project>
